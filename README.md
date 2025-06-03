@@ -8,7 +8,8 @@ But with complexity comes vulnerability. Modern power systems are full of interc
 
 In this project, I am looking at simulating a power grid featuring four 11kV generators, with a pair stationed at each end of the transmission line. Transformers are strategically placed to help us study and simulate different types of faults, especially those occuring right in the middle of the line, where things can het interesting!
 
-![alt text](image.png)
+![Transmission Falling Tree](https://lge-ku.com/sites/default/files/2021-03/Transmission_Falling_Tree_033021a.gif)
+
 
 ### Understanding Faults in Power Systems
 
