@@ -6,7 +6,7 @@ Transmission lines are the lifelines of a power systems, carrying electricity fr
 
 But with complexity comes vulnerability. Modern power systems are full of interconnected, dynamic components that are contantly at risk of electrical faults. 
 
-In this project, I am looking at simulating a power grid featureing four 11kV generators, with a pair stationed at each end of the transmission line. Transformers are strategically placed to help us study and simulate different types of faults, especially those occuring right in the middle of the line, where things can het interesting!
+In this project, I am looking at simulating a power grid featuring four 11kV generators, with a pair stationed at each end of the transmission line. Transformers are strategically placed to help us study and simulate different types of faults, especially those occuring right in the middle of the line, where things can het interesting!
 
 ![alt text](image.png)
 
@@ -14,13 +14,13 @@ In this project, I am looking at simulating a power grid featureing four 11kV ge
 
 Under normal conditions, power systems operate in a balanced, stable state. 
 
-However, when insulation fails or live wires come into contact, whether due to natural disturbances like lightning, strong winds, or earthuakes, or external factors like falling trees, bird contact, a FAULT occurs. And these faults disrupt the system's balance and can lead to short co=ircuits or outages. 
+However, when insulation fails or live wires come into contact, whether due to natural disturbances like lightning, strong winds, or earthquakes, or external factors like falling trees, bird contact, a FAULT occurs. And these faults disrupt the system's balance and can lead to short circuits or outages. 
 
 Power system faults are generally classified into 2 categories:
 
 1. Open-Circuit Faults 
 * Occur when one or more conductors break or disconnect.
-* Lead to unbalanced voltages and reduced power delivery.
+* Leads to unbalanced voltages and reduced power delivery.
 
 2. Short-Circuit Faults
 * These are more critical and occur when conductors tough each other or the ground.
